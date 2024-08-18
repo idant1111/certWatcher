@@ -1,0 +1,12 @@
+google.com
+google.co.il
+https://bgn.bgn-ng.com/
+https://expired.badssl.com/
+https://wrong.host.badssl.com/
+https://self-signed.badssl.com/
+https://chatgpt.com/
+www.facebook.com/
+https://www.home.idf.il/
+https://google.co.il
+amazon.com
+web.whatsapp.com

@@ -21,7 +21,7 @@ jobs:
       run: pip install pyinstaller
       
     - name: Install dependencies
-      run: pip install -r ./requirements
+      run: pip install -r ./requirements.txt
       
     - name: Build EXE
       run: pyinstaller --onefile --windowed --name="CertChecker" main/main.py

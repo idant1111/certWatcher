@@ -19,7 +19,10 @@ jobs:
 
     - name: Install dependencies
       run: pip install pyinstaller
-
+      
+    - name: Install dependencies
+      run: pip install -r ./requirements
+      
     - name: Build EXE
       run: pyinstaller --onefile --windowed --name="CertChecker" main/main.py
 
